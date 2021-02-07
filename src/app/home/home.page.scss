@@ -1,0 +1,66 @@
+::-webkit-scrollbar, *::-webkit-scrollbar {
+  display: none;
+  overflow: hidden;
+}
+
+ion-content {
+  overflow: hidden;
+  --overflow: hidden;
+}
+
+.scroll-content {
+  overflow: hidden;
+}
+
+.circle {  
+  height: 600px;
+  width: 600px;
+  background: linear-gradient(90deg, var(--ion-color-secondary) 0%, var(--ion-color-primary) 100%);
+  box-shadow: 0px 1px 10px rgba(98, 140, 255, 0.5);
+  border-radius: 50%;
+}
+.circle1 {
+  margin-left: -200px;
+  margin-top: -255px;
+  margin-bottom: 10px;
+}
+
+.circle2 {
+  margin-left: -15px;
+  margin-top: -18px;
+}
+
+.container {
+  position: absolute;
+  top: 6vh;
+  left: 9vw;
+  align-items: center;
+}
+
+.itemDesign {
+  border: 1px solid var(--ion-color-light);
+  border-radius: 20px;
+}
+
+ion-icon {
+  font-size: 5rem;
+  margin-left: 25vw;
+}
+
+.align {
+  position: absolute;
+  width: 65%;
+  margin: auto;
+  bottom: 8vh;
+  left: 16vw;
+  ion-text {
+    font-size: small;
+  }
+}
+
+ion-row {
+  margin-left: -8vw;
+  ion-icon {
+    font-size: 2rem;
+  }
+}
