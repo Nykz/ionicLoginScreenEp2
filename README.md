@@ -12,5 +12,5 @@ Run ionic serve
 That's it
 
 If you face any issue then comment me your issue in this youtube video.
-thank you.
+Thank you.
 
