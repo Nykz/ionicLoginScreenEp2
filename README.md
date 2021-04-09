@@ -1,5 +1,10 @@
 # ionicLoginScreenEp2
-Beautiful login screen design
+Beautiful MOVIE | EVENT APP - Auth Screens UI Kit
+
+Watch the Full Episode on YouTube at https://www.youtube.com/watch?v=ydfm_tKhaGE&list=PLixvNT19uDK6Fk6glTj18ONQRpCAVnY0G&index=9&ab_channel=CodingTechnyks
+
+<img src="https://github.com/Nykz/ionicLoginScreenEp2/blob/master/screen2_1.png" width="200" height="400" />
+<img src="https://github.com/Nykz/ionicLoginScreenEp2/blob/master/screen2_2.png" width="200" height="400" />
 
 Steps to Setup this beautiful login screen in your system
 
